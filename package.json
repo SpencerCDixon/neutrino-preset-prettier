@@ -1,0 +1,10 @@
+{
+  "name": "neutrino-preset-prettier",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Spencer Dixon <spencercdixon@gmail.com> (http://spencerdixon.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "prettier-webpack-plugin": "^0.0.2"
+  }
+}
