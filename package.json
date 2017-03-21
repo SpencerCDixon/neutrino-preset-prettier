@@ -2,6 +2,11 @@
   "name": "neutrino-preset-prettier",
   "version": "0.1.0",
   "main": "index.js",
+  "keywords: [
+    "neutrino",
+    "neutrino-preset",
+    "prettier"
+  ],
   "author": "Spencer Dixon <spencercdixon@gmail.com> (http://spencerdixon.com/)",
   "license": "MIT",
   "dependencies": {
